@@ -1,0 +1,11 @@
+C:\Users\rafael.a.silva\source\repos\Aplicativo Detran\bin\Debug\netcoreapp2.1\Aplicativo Detran.deps.json
+C:\Users\rafael.a.silva\source\repos\Aplicativo Detran\bin\Debug\netcoreapp2.1\Aplicativo Detran.runtimeconfig.json
+C:\Users\rafael.a.silva\source\repos\Aplicativo Detran\bin\Debug\netcoreapp2.1\Aplicativo Detran.runtimeconfig.dev.json
+C:\Users\rafael.a.silva\source\repos\Aplicativo Detran\bin\Debug\netcoreapp2.1\Aplicativo Detran.dll
+C:\Users\rafael.a.silva\source\repos\Aplicativo Detran\obj\Debug\netcoreapp2.1\Aplicativo Detran.csprojAssemblyReference.cache
+C:\Users\rafael.a.silva\source\repos\Aplicativo Detran\obj\Debug\netcoreapp2.1\Aplicativo Detran.csproj.CoreCompileInputs.cache
+C:\Users\rafael.a.silva\source\repos\Aplicativo Detran\obj\Debug\netcoreapp2.1\Aplicativo Detran.AssemblyInfoInputs.cache
+C:\Users\rafael.a.silva\source\repos\Aplicativo Detran\obj\Debug\netcoreapp2.1\Aplicativo Detran.AssemblyInfo.cs
+C:\Users\rafael.a.silva\source\repos\Aplicativo Detran\bin\Debug\netcoreapp2.1\Aplicativo Detran.pdb
+C:\Users\rafael.a.silva\source\repos\Aplicativo Detran\obj\Debug\netcoreapp2.1\Aplicativo Detran.dll
+C:\Users\rafael.a.silva\source\repos\Aplicativo Detran\obj\Debug\netcoreapp2.1\Aplicativo Detran.pdb
