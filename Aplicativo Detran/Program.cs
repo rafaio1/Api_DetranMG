@@ -64,9 +64,9 @@ namespace HelloWorldApplication
                     request1.AddParameter("_method", "POST");
                     request1.AddParameter("_csrfToken", String.Concat(csrfToken));
                     request1.AddParameter("_redirectPostToken", String.Concat(redirectPostToken));
-                    request1.AddParameter("cpf", "140.376.926-51");
-                    request1.AddParameter("dataNascimento", "13/03/1999");
-                    request1.AddParameter("dataPrimeiraHabilitacao", "01/03/2018");
+                    request1.AddParameter("cpf", "cpf com '.' e '-'");
+                    request1.AddParameter("dataNascimento", "data de nascimento com '/'");
+                    request1.AddParameter("dataPrimeiraHabilitacao", "data de nascimento com '/'");
                     request1.AddParameter("_Token[fields]", String.Concat(tokenFields));
                     request1.AddParameter("_Token[unlocked]", "");
 
